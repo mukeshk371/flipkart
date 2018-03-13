@@ -1,0 +1,159 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav1 {
+  overflow: hidden;
+  background-color: #2874F0;
+  width: 60%;
+  float: left;
+}
+
+.nav1 a {
+  float: left;
+  margin: 4px;
+  color: #434444;
+  text-align: center;
+  padding: 5px 8px;
+  text-decoration: none;
+  font-size: 12px;
+  cursor:pointer;
+  
+}
+
+
+.nav2 {
+  overflow: hidden;
+  background-color: #2874F0;
+  width: 40%;
+  float: right;
+}
+
+.nav2 a {
+  font: 15px arial, sans-serif;
+  float: right;
+  margin: 4.5px;
+  color: white;
+  text-align: center;
+  padding: 15px 16px;
+  text-decoration: none;
+  cursor:pointer;
+  
+}
+
+.button {
+    background-color: #E74B24;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 11px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.nav3 {
+  overflow: hidden;
+  background-color: #FFFFFF;
+  width: 100%;
+  float: left;
+}
+
+.nav3 a {
+  float: left;
+  margin: 20px 5px 5px 5px;
+  color: #828282;
+  text-align: center;
+  padding: 8px 7px;
+  text-decoration: none;
+  font-size: 12px;
+  cursor:pointer;
+  
+}
+
+.nav4 {
+  overflow: hidden;
+  background-color: #012B72;
+  width: 100%;
+  float: center;
+}
+
+.nav4 a {
+  float: left;
+  margin: 8px;
+  color: #6B83AD;
+  text-align: center;
+  padding: 8px 22px;
+  margin:10px;
+  text-decoration: none;
+  font-size: 12px;
+  cursor:pointer;
+  
+}
+
+.nav4 img {
+	width: 30px;
+	height: 25px;
+}
+
+.nav4 a:hover {
+    color: white;
+}
+
+
+.nav5 {
+  overflow: hidden;
+  background-color: #FFFFFF;
+  width: 100%;
+  float: center;
+  border-radius: 4px;
+}
+
+.nav5 a {
+  float: left;
+  margin: 8px;
+  color: #333333;
+  text-align: center;
+  padding: 8px 20px;
+  margin:10px;
+  text-decoration: none;
+  font-size: 20px;
+  cursor:pointer;
+  
+}
+
+
+.nav6 {
+  overflow: hidden;
+  background-color: #FFFFFF;
+  width: 100%;
+  float: center;
+  border-radius: 4px;
+}
+
+.nav6 a {
+  float: left;
+  margin: 8px;
+  color: #909090;
+  text-align: center;
+  padding: 8px 20px;
+  margin:10px;
+  text-decoration: none;
+  font-size: 10.5px;
+  cursor:pointer;
+  top: 300px;
+  
+}
+
+.nav6 img {
+	width: 30px;
+	height: 25px;
+}
+
+.nav6 a:hover {
+    color: black;
+}
+
+
