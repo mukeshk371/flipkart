@@ -1,32 +1,19 @@
 
-div.recharge {
-	border-radius:4px;
-	background-color: #FFFFFF;
-	width:95%;
-	float: middle;
-	position: absolute;
-    top: 210px;
-	left: 35px;
-}
-
-div.main{
-	border-radius:4px;
-	background-color: #FFFFFF;
-	width:95%;
-	float: center;
-	position: relative;
-    top: 100px;
-	left: 35px;
-	right: 35px;
-}
-
-.div3 {
-    background-color: aqua; 
-	height:510px; 
-	width:20%; 
+div.left {
+	background-color: white; 
+	height:300px; 
+	width:80%; 
+	margin:8px; 
 	float:left;
+	border-radius: 2px;
 }
 
-.div3 img {
-    width: 100%;
-}	
+
+div.right {
+	background-color: white; 
+	height:300px; 
+	width:17%; 
+	margin:8px; 
+	float:right;
+	border-radius: 2px;
+}
