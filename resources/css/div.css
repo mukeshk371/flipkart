@@ -17,3 +17,18 @@ div.right {
 	float:right;
 	border-radius: 2px;
 }
+
+
+
+@media only screen and (max-width:620px) {
+	.nav1, .nav2 {
+		width: 100%;
+		float: center;
+	}
+
+
+	.nav2 a, .nav1 a, .dropdown {
+		width: 100%;
+		float: center;
+	}
+}

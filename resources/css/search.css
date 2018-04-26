@@ -6,7 +6,7 @@
 }
 
 .container-1 input#search{
-  width: 500px;
+  width: 600px;
   height: 40px;
   background: #FFFFFF;
   border: none;
@@ -17,7 +17,6 @@
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   border-radius: 2px;
- 
 }
 
 .container-1 .icon {
@@ -28,18 +27,9 @@
   margin-top: 17px;
   z-index: 1;
   color: green;
-  background: white url('resources/images/logo.png') right no-repeat;
 }
 
 .container-1 input#search:hover, .container-1 input#search:focus, .container-1 input#search:active{
     outline: none;
 	background: #FFFFFF;
   }
-  
-#search {
-	 background: white url(/resources/images/logo.png) right no-repeat;
-    padding-right: 17px;
-}
-	
-
-
